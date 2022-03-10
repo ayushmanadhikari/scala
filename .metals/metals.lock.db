@@ -1,0 +1,6 @@
+#FileLock
+#Thu Mar 10 14:16:28 NPT 2022
+hostName=localhost
+id=17f72f452b82af4a69311d5a5229fdcdd62183b690b
+method=file
+server=localhost\:53477

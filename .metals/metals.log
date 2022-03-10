@@ -1,0 +1,13 @@
+2022.03.10 14:16:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayusman/migrate/scala/.metals/lsp.trace.json or /Users/ayusman/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.03.10 14:16:28 INFO  logging to file /Users/ayusman/migrate/scala/.metals/metals.log
+2022.03.10 14:16:28 INFO  Started: Metals version 0.11.2 in workspace '/Users/ayusman/migrate/scala' for client Visual Studio Code 1.63.2.
+2022.03.10 14:16:28 INFO  Parse release: 1.8.0_322
+2022.03.10 14:16:28 INFO  time: initialize in 0.52s
+2022.03.10 14:16:28 WARN  Build server is not auto-connectable.
+2022.03.10 14:16:28 WARN  no build tool detected in workspace '/Users/ayusman/migrate/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.03.10 14:16:29 WARN  no build target for: /Users/ayusman/migrate/scala/hello.scala
+2022.03.10 14:16:30 INFO  no build target found for /Users/ayusman/migrate/scala/hello.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.03.10 14:16:31 INFO  time: code lens generation in 1.7s
+2022.03.10 14:16:34 WARN  no build target for: /Users/ayusman/migrate/scala/hello.scala
+2022.03.10 14:17:30 WARN  no build target for: /Users/ayusman/migrate/scala/hello.scala
+2022.03.10 14:18:00 WARN  no build target for: /Users/ayusman/migrate/scala/hello.scala
